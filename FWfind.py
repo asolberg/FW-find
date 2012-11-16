@@ -21,8 +21,8 @@ def SendGmail(message):
     
     
     # Credentials (if needed)  
-    username = 'asolberg'  
-    password = 'ntabbhhnrfyh'  
+    username = 'xxxxxx'  
+    password = 'xxxxxx'  
   
     # The actual mail send  
     server = smtplib.SMTP('smtp.gmail.com:587')  
